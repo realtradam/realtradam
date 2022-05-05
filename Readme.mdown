@@ -1,1 +1,3 @@
-# ⚠️ Readme Under Construction ⚠️
+<p align="center" style="margin-bottom: 0px !important;">
+<img src="https://github.com/realtradam/realtradam/blob/master/construction.gif?raw=true" alt="Under Construction">
+</p>
