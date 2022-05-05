@@ -57,7 +57,7 @@ Simply give the generator the header files of your chosen C library and it will 
 [**Github**](https://github.com/realtradam/Justicar)
 
 This static site generator utilizes [Opal](https://opalrb.com) so that HTML, CSS, and Javascript can all be written in Ruby instead.  
-One can build websites using a regular file directory structure but also has a powerful templating system which allows developers to intelligently create and format many pages.
+One can build websites using a regular file directory structure but also has a powerful templating system which allows developers to intelligently create and format many pages at once.
 
 [👉 return to top](#welcome-to-my-little-github-corner)
 
