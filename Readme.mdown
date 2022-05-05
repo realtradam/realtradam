@@ -13,25 +13,25 @@ These are grouped into "Project Types" and within each group they are sorted by 
 <!-- vim-markdown-toc GFM -->
 
 * [***Systems, Libraries, and Tools***](#systems-libraries-and-tools)
-		* [**FelFlame** - *Modular Ruby/Raylib Game Engine*](#felflame---modular-rubyraylib-game-engine)
-		* [**FelECS** - *Pure Ruby Entity Component System*](#felecs---pure-ruby-entity-component-system)
-		* [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
-		* [**Justicar** - *Ruby Based Static Website Generator*](#justicar---ruby-based-static-website-generator)
+	* [**FelFlame** - *Modular Ruby/Raylib Game Engine*](#felflame---modular-rubyraylib-game-engine)
+	* [**FelECS** - *Pure Ruby Entity Component System*](#felecs---pure-ruby-entity-component-system)
+	* [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
+	* [**Justicar** - *Ruby Based Static Website Generator*](#justicar---ruby-based-static-website-generator)
 * [***Games and Demos***](#games-and-demos)
-		* [**Orc: Arena of Time** - *Top Down Innovative Obstacle Course*](#orc-arena-of-time---top-down-innovative-obstacle-course)
-		* [**Zig CHIP8** - *CHIP8 Emulator Implemented With Zig*](#zig-chip8---chip8-emulator-implemented-with-zig)
-		* [**SteelWings** - *Free Roam Shoot-em-up*](#steelwings---free-roam-shoot-em-up)
-		* [**Winter One** - *Scrolling Shoot-em-up*](#winter-one---scrolling-shoot-em-up)
-		* [**Optimal Direction** - *Racing*](#optimal-direction---racing)
-		* [**Card Slide Concept** - *Card Arena Concept*](#card-slide-concept---card-arena-concept)
-		* [**Arbitrary Polygon Collision** - *Collision Detection Demo*](#arbitrary-polygon-collision---collision-detection-demo)
-		* [**Almost Pong** - *A Twist On Pong*](#almost-pong---a-twist-on-pong)
+	* [**Orc: Arena of Time** - *Top Down Innovative Obstacle Course*](#orc-arena-of-time---top-down-innovative-obstacle-course)
+	* [**Zig CHIP8** - *CHIP8 Emulator Implemented With Zig*](#zig-chip8---chip8-emulator-implemented-with-zig)
+	* [**SteelWings** - *Free Roam Shoot-em-up*](#steelwings---free-roam-shoot-em-up)
+	* [**Winter One** - *Scrolling Shoot-em-up*](#winter-one---scrolling-shoot-em-up)
+	* [**Optimal Direction** - *Racing*](#optimal-direction---racing)
+	* [**Card Slide Concept** - *Card Arena Concept*](#card-slide-concept---card-arena-concept)
+	* [**Arbitrary Polygon Collision** - *Collision Detection Demo*](#arbitrary-polygon-collision---collision-detection-demo)
+	* [**Almost Pong** - *A Twist On Pong*](#almost-pong---a-twist-on-pong)
 
 <!-- vim-markdown-toc -->
 
 ---
 
-# ***Systems, Libraries, and Tools***
+## ***Systems, Libraries, and Tools***
 
 ### **FelFlame** - *Modular Ruby/Raylib Game Engine*
 [**Github**](https://github.com/realtradam/FelFlameEngine)
@@ -51,7 +51,7 @@ FelFlame Engine is a modular "library-style" Ruby game engine. It consists of a 
 
 ---
 
-# ***Games and Demos***
+## ***Games and Demos***
 
 ### **Orc: Arena of Time** - *Top Down Innovative Obstacle Course*
 [**Play Here**](https://tradam.itch.io/orc-arena-of-time) / [**Github**](https://github.com/realtradam/orc-arena-of-time)
