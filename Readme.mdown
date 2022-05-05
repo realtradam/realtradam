@@ -13,19 +13,19 @@ These are grouped into "Project Types" and within each group they are sorted by 
 <!-- vim-markdown-toc GFM -->
 
 * [***Systems, Libraries, and Tools***](#systems-libraries-and-tools)
-	* [**FelFlame** - <p style="display:inline;font-weight:normal">*Modular Ruby/Raylib Game Engine*</p>](#felflame---p-styledisplayinlinefont-weightnormalmodular-rubyraylib-game-enginep)
-	* [**FelECS** - *Pure Ruby Entity Component System*](#felecs---pure-ruby-entity-component-system)
-	* [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
-	* [**Justicar** - *Ruby Based Static Website Generator*](#justicar---ruby-based-static-website-generator)
+		* [**FelFlame** - *Modular Ruby/Raylib Game Engine*](#felflame---modular-rubyraylib-game-engine)
+		* [**FelECS** - *Pure Ruby Entity Component System*](#felecs---pure-ruby-entity-component-system)
+		* [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
+		* [**Justicar** - *Ruby Based Static Website Generator*](#justicar---ruby-based-static-website-generator)
 * [***Games and Demos***](#games-and-demos)
-	* [**Orc: Arena of Time** - *Top Down Innovative Obstacle Course*](#orc-arena-of-time---top-down-innovative-obstacle-course)
-	* [**Zig CHIP8** - *CHIP8 Emulator Implemented With Zig*](#zig-chip8---chip8-emulator-implemented-with-zig)
-	* [**SteelWings** - *Free Roam Shoot-em-up*](#steelwings---free-roam-shoot-em-up)
-	* [**Winter One** - *Scrolling Shoot-em-up*](#winter-one---scrolling-shoot-em-up)
-	* [**Optimal Direction** - *Racing*](#optimal-direction---racing)
-	* [**Card Slide Concept** - *Card Arena Concept*](#card-slide-concept---card-arena-concept)
-	* [**Arbitrary Polygon Collision** - *Collision Detection Demo*](#arbitrary-polygon-collision---collision-detection-demo)
-	* [**Almost Pong** - *A Twist On Pong*](#almost-pong---a-twist-on-pong)
+		* [**Orc: Arena of Time** - *Top Down Innovative Obstacle Course*](#orc-arena-of-time---top-down-innovative-obstacle-course)
+		* [**Zig CHIP8** - *CHIP8 Emulator Implemented With Zig*](#zig-chip8---chip8-emulator-implemented-with-zig)
+		* [**SteelWings** - *Free Roam Shoot-em-up*](#steelwings---free-roam-shoot-em-up)
+		* [**Winter One** - *Scrolling Shoot-em-up*](#winter-one---scrolling-shoot-em-up)
+		* [**Optimal Direction** - *Racing*](#optimal-direction---racing)
+		* [**Card Slide Concept** - *Card Arena Concept*](#card-slide-concept---card-arena-concept)
+		* [**Arbitrary Polygon Collision** - *Collision Detection Demo*](#arbitrary-polygon-collision---collision-detection-demo)
+		* [**Almost Pong** - *A Twist On Pong*](#almost-pong---a-twist-on-pong)
 
 <!-- vim-markdown-toc -->
 
@@ -33,18 +33,18 @@ These are grouped into "Project Types" and within each group they are sorted by 
 
 # ***Systems, Libraries, and Tools***
 
-## **FelFlame** - <p style="display:inline;font-weight:normal">*Modular Ruby/Raylib Game Engine*</p>
+### **FelFlame** - *Modular Ruby/Raylib Game Engine*
 [**Github**](https://github.com/realtradam/FelFlameEngine)
 
 FelFlame Engine is a modular "library-style" Ruby game engine. It consists of a core set of libraries(mruby + Raylib) which you can freely add your own mruby or C libraries on top of to be compiled into a single game or interpreter. Currently it exports to Windows, Web and Linux.
 
-## **FelECS** - *Pure Ruby Entity Component System*
+### **FelECS** - *Pure Ruby Entity Component System*
 [**Github**](https://github.com/realtradam/FelECS)
 
-## **FelBind** - *C to mruby Automatic Binding Generator*
+### **FelBind** - *C to mruby Automatic Binding Generator*
 [*Github*](https://github.com/realtradam/FelBind)
 
-## **Justicar** - *Ruby Based Static Website Generator*
+### **Justicar** - *Ruby Based Static Website Generator*
 [**Github**](https://github.com/realtradam/Justicar)
 
 [👉 return to top](#welcome-to-my-little-github-corner)
@@ -53,27 +53,27 @@ FelFlame Engine is a modular "library-style" Ruby game engine. It consists of a 
 
 # ***Games and Demos***
 
-## **Orc: Arena of Time** - *Top Down Innovative Obstacle Course*
+### **Orc: Arena of Time** - *Top Down Innovative Obstacle Course*
 [**Play Here**](https://tradam.itch.io/orc-arena-of-time) / [**Github**](https://github.com/realtradam/orc-arena-of-time)
-## **Zig CHIP8** - *CHIP8 Emulator Implemented With Zig*
+### **Zig CHIP8** - *CHIP8 Emulator Implemented With Zig*
 [**Github**](https://github.com/realtradam/zig-chip-8)
 
-## **SteelWings** - *Free Roam Shoot-em-up*
+### **SteelWings** - *Free Roam Shoot-em-up*
 [**Play Here**](https://argo.itch.io/steelwings) / [**Github**](https://github.com/realtradam/SteelWings)
 
-## **Winter One** - *Scrolling Shoot-em-up*
+### **Winter One** - *Scrolling Shoot-em-up*
 [**Play Here**](https://tradam.itch.io/winter-one)
 
-## **Optimal Direction** - *Racing*
+### **Optimal Direction** - *Racing*
 [**Play Here**](https://tradam.itch.io/optimal-direction) / [**Github**](https://github.com/realtradam/optimal-direction)
 
-## **Card Slide Concept** - *Card Arena Concept*
+### **Card Slide Concept** - *Card Arena Concept*
 [**Play Here**](https://tradam.itch.io/card-slide-prototype) / [**Github**](https://github.com/realtradam/card-slide-concept)
 
-## **Arbitrary Polygon Collision** - *Collision Detection Demo*
+### **Arbitrary Polygon Collision** - *Collision Detection Demo*
 [**Play Here**](https://tradam.itch.io/arbitrary-polygon-collision-demo) / [**Github**](https://github.com/realtradam/arbitrary-polygon-collision)
 
-## **Almost Pong** - *A Twist On Pong*
+### **Almost Pong** - *A Twist On Pong*
 [**Play Here**](https://tradam.itch.io/almost-pong) / [**Github**](https://github.com/realtradam/almost-pong)
 
 [👉 return to top](#welcome-to-my-little-github-corner)
