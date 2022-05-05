@@ -13,7 +13,7 @@ These are grouped into "Project Types" and within each group they are sorted by 
 <!-- vim-markdown-toc GFM -->
 
 * [***Systems, Libraries, and Tools***](#systems-libraries-and-tools)
-	* [**FelFlame** - <div style="display:inline;font-weight:normal">*Modular Ruby/Raylib Game Engine*</div>](#felflame---div-styledisplayinlinefont-weightnormalmodular-rubyraylib-game-enginediv)
+	* [**FelFlame** - <p style="display:inline;font-weight:normal">*Modular Ruby/Raylib Game Engine*</p>](#felflame---p-styledisplayinlinefont-weightnormalmodular-rubyraylib-game-enginep)
 	* [**FelECS** - *Pure Ruby Entity Component System*](#felecs---pure-ruby-entity-component-system)
 	* [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
 	* [**Justicar** - *Ruby Based Static Website Generator*](#justicar---ruby-based-static-website-generator)
@@ -33,7 +33,7 @@ These are grouped into "Project Types" and within each group they are sorted by 
 
 # ***Systems, Libraries, and Tools***
 
-## **FelFlame** - <div style="display:inline;font-weight:normal">*Modular Ruby/Raylib Game Engine*</div>
+## **FelFlame** - <p style="display:inline;font-weight:normal">*Modular Ruby/Raylib Game Engine*</p>
 [**Github**](https://github.com/realtradam/FelFlameEngine)
 
 FelFlame Engine is a modular "library-style" Ruby game engine. It consists of a core set of libraries(mruby + Raylib) which you can freely add your own mruby or C libraries on top of to be compiled into a single game or interpreter. Currently it exports to Windows, Web and Linux.
