@@ -74,30 +74,36 @@ Won the [Raylib 5K Gamejam](https://itch.io/jam/raylib-5k-gamejam/results/enjoym
 Using the Zig programming language, I implemented a working CHIP8 Emulator. I also added in a few custom self-made shaders in GLSL to give it that retro CRT vibe.
 
 ### **SteelWings** - *Free Roam Shoot-em-up*
-[**Play Here**](https://argo.itch.io/steelwings) / [**Github**](https://github.com/realtradam/SteelWings)
+[**Play Here**](https://argo.itch.io/steelwings) / [**Github**](https://github.com/realtradam/SteelWings)  
+
 A small little shoot-em-up where you fly around and shoot enemies that have varying AI!  
 My first bigger project where I was able use and test FelECS, this project was done by me and a friend.
 
 ### **Winter One** - *Scrolling Shoot-em-up*
-[**Play Here**](https://tradam.itch.io/winter-one)
+[**Play Here**](https://tradam.itch.io/winter-one)  
+
 Simple scrolling shooter that was created using the Godot game engine.  
 The first project where I cooperated with a teammate.
 
 ### **Optimal Direction** - *Racing*
-[**Play Here**](https://tradam.itch.io/optimal-direction) / [**Github**](https://github.com/realtradam/optimal-direction)
+[**Play Here**](https://tradam.itch.io/optimal-direction) / [**Github**](https://github.com/realtradam/optimal-direction)  
+
 An old abandoned prototype. I worked on this project on and off for more then a year before abandoning it because of a much too large scope at the time. I learned a lot about setting reasonable expectations for projects.  
 Regardless I have uploaded this game as it still has some fun driving mechanics for what it is.
 
 ### **Card Slide Concept** - *Card Arena Concept*
-[**Play Here**](https://tradam.itch.io/card-slide-prototype) / [**Github**](https://github.com/realtradam/card-slide-concept)
+[**Play Here**](https://tradam.itch.io/card-slide-prototype) / [**Github**](https://github.com/realtradam/card-slide-concept)  
+
 Inspired by the [card sliding effect](https://cdn.discordapp.com/attachments/611458387200180257/972393170564427786/2022-05-03_12-12-36.mp4) created by [Stacklands](https://store.steampowered.com/app/1948280/Stacklands/) I decided to recreate it myself from scratch to great effect!
 
 ### **Arbitrary Polygon Collision** - *Collision Detection Demo*
-[**Play Here**](https://tradam.itch.io/arbitrary-polygon-collision-demo) / [**Github**](https://github.com/realtradam/arbitrary-polygon-collision)
+[**Play Here**](https://tradam.itch.io/arbitrary-polygon-collision-demo) / [**Github**](https://github.com/realtradam/arbitrary-polygon-collision)  
+
 My implementation of the [Separating Axis Theorem](https://en.wikipedia.org/wiki/Hyperplane_separation_theorem#Use_in_collision_detection) to resolve collisions of arbitrary convex polygons. I made it in Ruby as I couldn't find an existing implementation of it in this language. Neat stuff!
 
 ### **Almost Pong** - *A Twist On Pong*
-[**Play Here**](https://tradam.itch.io/almost-pong) / [**Github**](https://github.com/realtradam/almost-pong)
+[**Play Here**](https://tradam.itch.io/almost-pong) / [**Github**](https://github.com/realtradam/almost-pong)  
+
 A remake of [Almost Pong](https://www.lessmilk.com/almost-pong/). I wanted to see how fast I could remake a simple game using my custom workflow(the answer is pretty fast, only took not too much longer then one hour).
 
 [👉 return to top](#welcome-to-my-little-github-corner)
