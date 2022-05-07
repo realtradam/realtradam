@@ -44,7 +44,7 @@ FelECS is an ECS framework for developing games in the Ruby language. FelECS has
 3. **Principle of (My) Least Astonishment:** I want to develop games using a language and framework I love and makes sense to me, inspired by the [Philosophy of the creator of Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)#Philosophy).
 
 ### **FelBind** - *C to mruby Automatic Binding Generator*
-[*Github*](https://github.com/realtradam/FelBind)
+[**Github**](https://github.com/realtradam/FelBind)
 
 A binding generator which allows programmers to easily program with C libraries in Ruby. This tool can be used in conjunction with FelFlame Engine to easily extend the functionality of your games.  
 Simply give the generator the header files of your chosen C library and it will scan it and generate the appropriate bindings of any functions that are supported.
