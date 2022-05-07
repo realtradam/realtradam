@@ -1,7 +1,3 @@
-<p align="center" style="margin-bottom: 0px !important;">
-<img src="https://github.com/realtradam/realtradam/blob/master/construction.gif?raw=true" alt="Under Construction">
-</p>
-
 # Welcome to my little Github Corner
 
 
@@ -18,7 +14,7 @@ These are grouped into "Project Types" and within each group they are sorted by 
 	* [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
 	* [**Justicar** - *Ruby Based Static Website Generator*](#justicar---ruby-based-static-website-generator)
 * [***Games and Demos***](#games-and-demos)
-	* [**Orc: Arena of Time** - *Top Down Innovative Obstacle Course*](#orc-arena-of-time---top-down-innovative-obstacle-course)
+	* [🏆**Orc: Arena of Time** - *Top Down Innovative Obstacle Course*](#orc-arena-of-time---top-down-innovative-obstacle-course)
 	* [**Zig CHIP8** - *CHIP8 Emulator Implemented With Zig*](#zig-chip8---chip8-emulator-implemented-with-zig)
 	* [**SteelWings** - *Free Roam Shoot-em-up*](#steelwings---free-roam-shoot-em-up)
 	* [**Winter One** - *Scrolling Shoot-em-up*](#winter-one---scrolling-shoot-em-up)
@@ -65,7 +61,7 @@ One can build websites using a regular file directory structure but also has a p
 
 ## ***Games and Demos***
 
-### **Orc: Arena of Time** - *Top Down Innovative Obstacle Course*
+### 🏆**Orc: Arena of Time** - *Top Down Innovative Obstacle Course*
 [**Play Here**](https://tradam.itch.io/orc-arena-of-time) / [**Github**](https://github.com/realtradam/orc-arena-of-time)
 
 Help Orc the orc maneuver through the Arena of Time and reach the end!
@@ -79,21 +75,30 @@ Using the Zig programming language, I implemented a working CHIP8 Emulator. I al
 
 ### **SteelWings** - *Free Roam Shoot-em-up*
 [**Play Here**](https://argo.itch.io/steelwings) / [**Github**](https://github.com/realtradam/SteelWings)
+A small little shoot-em-up where you fly around and shoot enemies that have varying AI!  
+My first bigger project where I was able use and test FelECS, this project was done by me and a friend.
 
 ### **Winter One** - *Scrolling Shoot-em-up*
 [**Play Here**](https://tradam.itch.io/winter-one)
+Simple scrolling shooter that was created using the Godot game engine.  
+The first project where I cooperated with a teammate.
 
 ### **Optimal Direction** - *Racing*
 [**Play Here**](https://tradam.itch.io/optimal-direction) / [**Github**](https://github.com/realtradam/optimal-direction)
+An old abandoned prototype. I worked on this project on and off for more then a year before abandoning it because of a much too large scope at the time. I learned a lot about setting reasonable expectations for projects.  
+Regardless I have uploaded this game as it still has some fun driving mechanics for what it is.
 
 ### **Card Slide Concept** - *Card Arena Concept*
 [**Play Here**](https://tradam.itch.io/card-slide-prototype) / [**Github**](https://github.com/realtradam/card-slide-concept)
+Inspired by the [card sliding effect](https://cdn.discordapp.com/attachments/611458387200180257/972393170564427786/2022-05-03_12-12-36.mp4) created by [Stacklands](https://store.steampowered.com/app/1948280/Stacklands/) I decided to recreate it myself from scratch to great effect!
 
 ### **Arbitrary Polygon Collision** - *Collision Detection Demo*
 [**Play Here**](https://tradam.itch.io/arbitrary-polygon-collision-demo) / [**Github**](https://github.com/realtradam/arbitrary-polygon-collision)
+My implementation of the [Separating Axis Theorem](https://en.wikipedia.org/wiki/Hyperplane_separation_theorem#Use_in_collision_detection) to resolve collisions of arbitrary convex polygons. I made it in Ruby as I couldn't find an existing implementation of it. Neat stuff!
 
 ### **Almost Pong** - *A Twist On Pong*
 [**Play Here**](https://tradam.itch.io/almost-pong) / [**Github**](https://github.com/realtradam/almost-pong)
+A remake of [Almost Pong](https://www.lessmilk.com/almost-pong/). I wanted to see how fast I could remake a simple game using my custom workflow(the answer is pretty fast, only took not too much longer then one hour).
 
 [👉 return to top](#welcome-to-my-little-github-corner)
 
