@@ -5,6 +5,9 @@ Welcome :D, here is a shortlist of some projects I am proud of as well as links 
 
 These are grouped into "Project Types" and within each group they are sorted by an arbitrary "Favorite to Good"
 
+Also checkout my itch page for screenshots, games, and playable demos:
+https://tradam.itch.io
+
 ## Table of Contents
 <!-- vim-markdown-toc GFM -->
 
