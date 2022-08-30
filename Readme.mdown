@@ -18,6 +18,7 @@ https://tradam.itch.io
 	* [**Justicar** - *Ruby Based Static Website Generator*](#justicar---ruby-based-static-website-generator)
 * [***Games and Demos***](#games-and-demos)
 	* [🏆 **Orc: Arena of Time** - *Top Down Innovative Obstacle Course*](#-orc-arena-of-time---top-down-innovative-obstacle-course)
+	* [**Among Us Clicker** - *Web Clicker Game Made With Vue.js*](#among-us-clicker---web-clicker-game-made-with-vuejs)
 	* [**Zig CHIP8** - *CHIP8 Emulator Implemented With Zig*](#zig-chip8---chip8-emulator-implemented-with-zig)
 	* [**SteelWings** - *Free Roam Shoot-em-up*](#steelwings---free-roam-shoot-em-up)
 	* [**Winter One** - *Scrolling Shoot-em-up*](#winter-one---scrolling-shoot-em-up)
@@ -70,6 +71,11 @@ One can build websites using a regular file directory structure but also has a p
 Help Orc the orc maneuver through the Arena of Time and reach the end!
 
 Won the [Raylib 5K Gamejam](https://itch.io/jam/raylib-5k-gamejam/results/enjoyment-is-the-game-enjoyable-to-play) in *First Place* against 40 other entrants! I'm really proud of this project, give it a shot :D
+
+### **Among Us Clicker** - *Web Clicker Game Made With Vue.js*
+[**Play Here**](https://imposter.exposed) / [**Github**](https://github.com/realtradam/Amongus-Clicker)
+
+A clicker game made with Vue.js where I built a custom animation and particle system to give that really nice polished feel.
 
 ### **Zig CHIP8** - *CHIP8 Emulator Implemented With Zig*
 [**Github**](https://github.com/realtradam/zig-chip-8)
