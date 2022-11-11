@@ -27,6 +27,7 @@ https://tradam.itch.io
 	* [**Card Slide Concept** - *Card Arena Concept (Ruby)*](#card-slide-concept---card-arena-concept-ruby)
 	* [**Arbitrary Polygon Collision** - *Collision Detection Demo (Ruby)*](#arbitrary-polygon-collision---collision-detection-demo-ruby)
 	* [**Almost Pong** - *A Twist On Pong (Ruby)*](#almost-pong---a-twist-on-pong-ruby)
+	* [**Ruboids** - *A Fishtank Simulator Using Boids (Ruby)*](#ruboids---a-fishtank-simulator-using-boids-ruby)
 
 <!-- vim-markdown-toc -->
 
@@ -120,6 +121,12 @@ My implementation of the [Separating Axis Theorem](https://en.wikipedia.org/wiki
 [**Play Here**](https://tradam.itch.io/almost-pong) / [**Github**](https://github.com/realtradam/almost-pong)  
 
 A remake of [Almost Pong](https://www.lessmilk.com/almost-pong/). I wanted to see how fast I could remake a simple game using my custom workflow(the answer is pretty fast, only took not too much longer then one hour).
+
+
+### **Ruboids** - *A Fishtank Simulator Using Boids (Ruby)*
+[**Github**](https://github.com/realtradam/ruboids)  
+
+A fishtank filled with little fishies. Click to add piranhas that chase the little fishies. The Ai of the little fishies tries to stay spread out and far away from the piranhas.
 
 [👉 return to top](#welcome-to-my-little-github-corner)
 
