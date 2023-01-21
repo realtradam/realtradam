@@ -18,6 +18,7 @@ https://tradam.itch.io
 	* [**Justicar** - *Ruby Based Static Website Generator*](#justicar---ruby-based-static-website-generator)
 * [***Games and Demos***](#games-and-demos)
 	* [🏆 **Orc: Arena of Time** - *Top Down Innovative Obstacle Course (Ruby)*](#-orc-arena-of-time---top-down-innovative-obstacle-course-ruby)
+	* [**Magnet Run 3D** - *Gravity Ball Game (Unity)*](#magnet-run-3d---gravity-ball-game-unity)
 	* [**Among Us Clicker** - *Web Clicker Game (JavaScript/Vue.js)*](#among-us-clicker---web-clicker-game-javascriptvuejs)
 	* [**Raylib DrawTexturePro() Demo** - *Program For Teaching Newcomers Raylib ( C )*](#raylib-drawtexturepro-demo---program-for-teaching-newcomers-raylib--c-)
 	* [**Zig CHIP8** - *CHIP8 Emulator (GLSL/Zig)*](#zig-chip8---chip8-emulator-glslzig)
@@ -38,7 +39,7 @@ https://tradam.itch.io
 ### **Ogle** - *C++ OpenGL Game Engine*
 [**Github**](https://github.com/realtradam/Ogle)
 
-FelFlame Engine is an OpenGL based game engine made from scratch with C++. The primary goal of this project being to learn low level GPU programming and organizing code structure in a way that is fast, intuitive, and code readable.
+Ogle is an OpenGL renderer made from scratch with C++. The primary goal of this project being to learn low level GPU programming and organizing code structure in a way that is fast, intuitive, and readable.
 
 ### **FelECS** - *Pure Ruby Entity Component System*
 [**Github**](https://github.com/realtradam/FelECS)
@@ -72,7 +73,12 @@ One can build websites using a regular file directory structure but also has a p
 
 Help Orc the orc maneuver through the Arena of Time and reach the end!
 
-Won the [Raylib 5K Gamejam](https://itch.io/jam/raylib-5k-gamejam/results/enjoyment-is-the-game-enjoyable-to-play) in *First Place* against 40 other entrants! I'm really proud of this project, give it a shot :D
+Won the [Raylib 5K Gamejam](https://itch.io/jam/raylib-5k-gamejam/results/enjoyment-is-the-game-enjoyable-to-play) in *First Place* against 40 other entrants! I'm really proud of this project, give it a shot :D.
+
+### **Magnet Run 3D** - *Gravity Ball Game (Unity)*
+[**Play Here**](https://tradam.itch.io/magnet-run-3d) / [**Github**](https://github.com/realtradam/Magnet-Run-3D)
+
+Tech demo developed to exercise and practice the 3Cs of game design/development. In this demo you play as a ball that rolls around various objects that have complex gravity sources.
 
 ### **Among Us Clicker** - *Web Clicker Game (JavaScript/Vue.js)*
 [**Play Here**](https://imposter.exposed) / [**Github**](https://github.com/realtradam/Amongus-Clicker)
