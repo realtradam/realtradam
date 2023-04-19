@@ -12,23 +12,21 @@ https://tradam.itch.io
 <!-- vim-markdown-toc GFM -->
 
 * [***Systems, Libraries, and Tools***](#systems-libraries-and-tools)
-	* [**Ogle** - *C++ OpenGL Game Engine*](#ogle---c-opengl-game-engine)
-	* [**FelECS** - *Pure Ruby Entity Component System*](#felecs---pure-ruby-entity-component-system)
-	* [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
-	* [**Justicar** - *Ruby Based Static Website Generator*](#justicar---ruby-based-static-website-generator)
+    * [**Rodeo Kit** - *C Game Development Toolkit*](#rodeo-kit---c-game-development-toolkit)
+    * [**FelECS** - *Pure Ruby Entity Component System*](#felecs---pure-ruby-entity-component-system)
+    * [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
 * [***Games and Demos***](#games-and-demos)
-	* [🏆 **Orc: Arena of Time** - *Top Down Innovative Obstacle Course (Ruby)*](#-orc-arena-of-time---top-down-innovative-obstacle-course-ruby)
-	* [**Magnet Run 3D** - *Gravity Ball Game (Unity)*](#magnet-run-3d---gravity-ball-game-unity)
-	* [**Among Us Clicker** - *Web Clicker Game (JavaScript/Vue.js)*](#among-us-clicker---web-clicker-game-javascriptvuejs)
-	* [**Raylib DrawTexturePro() Demo** - *Program For Teaching Newcomers Raylib ( C )*](#raylib-drawtexturepro-demo---program-for-teaching-newcomers-raylib--c-)
-	* [**Zig CHIP8** - *CHIP8 Emulator (GLSL/Zig)*](#zig-chip8---chip8-emulator-glslzig)
-	* [**SteelWings** - *Free Roam Shoot-em-up (Ruby)*](#steelwings---free-roam-shoot-em-up-ruby)
-	* [**Winter One** - *Scrolling Shoot-em-up (Godot)*](#winter-one---scrolling-shoot-em-up-godot)
-	* [**Optimal Direction** - *Racing Demo (Godot)*](#optimal-direction---racing-demo-godot)
-	* [**Card Slide Concept** - *Card Arena Concept (Ruby)*](#card-slide-concept---card-arena-concept-ruby)
-	* [**Arbitrary Polygon Collision** - *Collision Detection Demo (Ruby)*](#arbitrary-polygon-collision---collision-detection-demo-ruby)
-	* [**Almost Pong** - *A Twist On Pong (Ruby)*](#almost-pong---a-twist-on-pong-ruby)
-	* [**Ruboids** - *A Fishtank Simulator Using Boids (Ruby)*](#ruboids---a-fishtank-simulator-using-boids-ruby)
+    * [🏆 **Orc: Arena of Time** - *Top Down Innovative Obstacle Course (C and Ruby)*](#-orc-arena-of-time---top-down-innovative-obstacle-course-c-and-ruby)
+    * [**Magnet Run 3D** - *Gravity Ball Game (Unity)*](#magnet-run-3d---gravity-ball-game-unity)
+    * [**Among Us Clicker** - *Web Clicker Game (JavaScript/Vue.js)*](#among-us-clicker---web-clicker-game-javascriptvuejs)
+    * [**Raylib DrawTexturePro() Demo** - *Program For Teaching Newcomers Raylib ( C )*](#raylib-drawtexturepro-demo---program-for-teaching-newcomers-raylib--c-)
+    * [**SteelWings** - *Free Roam Shoot-em-up (Ruby)*](#steelwings---free-roam-shoot-em-up-ruby)
+    * [**Winter One** - *Scrolling Shoot-em-up (Godot)*](#winter-one---scrolling-shoot-em-up-godot)
+    * [**Optimal Direction** - *Racing Demo (Godot)*](#optimal-direction---racing-demo-godot)
+    * [**Card Slide Concept** - *Card Arena Concept (Ruby)*](#card-slide-concept---card-arena-concept-ruby)
+    * [**Arbitrary Polygon Collision** - *Collision Detection Demo (Ruby)*](#arbitrary-polygon-collision---collision-detection-demo-ruby)
+    * [**Almost Pong** - *A Twist On Pong (Ruby)*](#almost-pong---a-twist-on-pong-ruby)
+    * [**Ruboids** - *A Fishtank Simulator Using Boids (Ruby)*](#ruboids---a-fishtank-simulator-using-boids-ruby)
 
 <!-- vim-markdown-toc -->
 
@@ -36,10 +34,15 @@ https://tradam.itch.io
 
 ## ***Systems, Libraries, and Tools***
 
-### **Ogle** - *C++ OpenGL Game Engine*
-[**Github**](https://github.com/realtradam/Ogle)
+### **Rodeo Kit** - *C Game Development Toolkit*
+[**Github**](https://github.com/realtradam/RodeoKit)
 
-Ogle is an OpenGL renderer made from scratch with C++. The primary goal of this project being to learn low level GPU programming and organizing code structure in a way that is fast, intuitive, and readable.
+Rodeo Kit is a game development toolkit that consists of multiple libraries I've made that come together to assist with the creation of games such as:
+- Cross-platform 2D batched rendering system
+- Abstracted input system allowing for easy implementation of many different input interfaces.
+- Multi-level logging system that allows a custom callback to redirect the output of logging.
+
+And more still being developed!
 
 ### **FelECS** - *Pure Ruby Entity Component System*
 [**Github**](https://github.com/realtradam/FelECS)
@@ -56,19 +59,11 @@ FelECS is an ECS framework for developing games in the Ruby language. FelECS has
 A binding generator which allows programmers to easily program with C libraries in Ruby. This tool can be used in conjunction with FelFlame Engine to easily extend the functionality of your games.  
 Simply give the generator the header files of your chosen C library and it will scan it and generate the appropriate bindings of any functions that are supported.
 
-### **Justicar** - *Ruby Based Static Website Generator*
-[**Github**](https://github.com/realtradam/Justicar)
-
-This static site generator utilizes [Opal](https://opalrb.com) so that HTML, CSS, and Javascript can all be written in Ruby instead.  
-One can build websites using a regular file directory structure but also has a powerful templating system which allows developers to intelligently create and format many pages at once.
-
-[👉 return to top](#welcome-to-my-little-github-corner)
-
 ---
 
 ## ***Games and Demos***
 
-### 🏆 **Orc: Arena of Time** - *Top Down Innovative Obstacle Course (Ruby)*
+### 🏆 **Orc: Arena of Time** - *Top Down Innovative Obstacle Course (C and Ruby)*
 [**Play Here**](https://tradam.itch.io/orc-arena-of-time) / [**Github**](https://github.com/realtradam/orc-arena-of-time)
 
 Help Orc the orc maneuver through the Arena of Time and reach the end!
@@ -90,10 +85,10 @@ A clicker game made with Vue.js where I built a custom animation and particle sy
 
 An interactive demo designed specifically the help new programmers using Raylib to learn this fundamental function. Helps the community daily.
 
-### **Zig CHIP8** - *CHIP8 Emulator (GLSL/Zig)*
+<!-- ### **Zig CHIP8** - *CHIP8 Emulator (GLSL/Zig)*
 [**Github**](https://github.com/realtradam/zig-chip-8)
 
-Using the Zig programming language, I implemented a working CHIP8 Emulator. I also added in a few custom self-made shaders in GLSL to give it that retro CRT vibe.
+Using the Zig programming language, I implemented a working CHIP8 Emulator. I also added in a few custom self-made shaders in GLSL to give it that retro CRT vibe. -->
 
 ### **SteelWings** - *Free Roam Shoot-em-up (Ruby)*
 [**Play Here**](https://argo.itch.io/steelwings) / [**Github**](https://github.com/realtradam/SteelWings)  
