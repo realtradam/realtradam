@@ -12,7 +12,6 @@ https://tradam.itch.io
 <!-- vim-markdown-toc GFM -->
 
 * [***Systems, Libraries, and Tools***](#systems-libraries-and-tools)
-    * [**Rodeo Kit** - *C Game Development Toolkit*](#rodeo-kit---c-game-development-toolkit)
     * [**FelECS** - *Pure Ruby Entity Component System*](#felecs---pure-ruby-entity-component-system)
     * [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
 * [***Games and Demos***](#games-and-demos)
