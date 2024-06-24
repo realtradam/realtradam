@@ -9,15 +9,19 @@ Also checkout my itch page for screenshots, games, and playable demos:
 https://tradam.itch.io
 
 ## Table of Contents
+
 <!-- vim-markdown-toc GFM -->
 
+* [***Web Apps***](#web-apps)
+    * [**Game Holster** - *Ruby on Rails API for uploading and serving web games*](#game-holster---ruby-on-rails-api-for-uploading-and-serving-web-games)
+    * [**Among Us Clicker** - *Web Clicker Game (JavaScript/Vue.js)*](#among-us-clicker---web-clicker-game-javascriptvuejs)
 * [***Systems, Libraries, and Tools***](#systems-libraries-and-tools)
     * [**FelECS** - *Pure Ruby Entity Component System*](#felecs---pure-ruby-entity-component-system)
+    * [**Rodeo Kit** - *C Game Development Toolkit*](#rodeo-kit---c-game-development-toolkit)
     * [**FelBind** - *C to mruby Automatic Binding Generator*](#felbind---c-to-mruby-automatic-binding-generator)
 * [***Games and Demos***](#games-and-demos)
     * [🏆 **Orc: Arena of Time** - *Top Down Innovative Obstacle Course (C and Ruby)*](#-orc-arena-of-time---top-down-innovative-obstacle-course-c-and-ruby)
     * [**Magnet Run 3D** - *Gravity Ball Game (Unity)*](#magnet-run-3d---gravity-ball-game-unity)
-    * [**Among Us Clicker** - *Web Clicker Game (JavaScript/Vue.js)*](#among-us-clicker---web-clicker-game-javascriptvuejs)
     * [**Raylib DrawTexturePro() Demo** - *Program For Teaching Newcomers Raylib ( C )*](#raylib-drawtexturepro-demo---program-for-teaching-newcomers-raylib--c-)
     * [**SteelWings** - *Free Roam Shoot-em-up (Ruby)*](#steelwings---free-roam-shoot-em-up-ruby)
     * [**Winter One** - *Scrolling Shoot-em-up (Godot)*](#winter-one---scrolling-shoot-em-up-godot)
@@ -31,15 +35,23 @@ https://tradam.itch.io
 
 ---
 
+## ***Web Apps***
+
+### **Game Holster** - *Ruby on Rails API for uploading and serving web games*
+[**Github**]()
+
+Game Holster is a web app where users can sign up to upload their own web games which can then be played on the site itself!
+- Login authentication flow with GitHub OAuth
+- Upload games that were exported from many popular game engines such as Unity, Godot, and Raylib
+- Served games are isolated on a different domain so as to make XSS attacks done by uploading compromised files impossible.
+
+### **Among Us Clicker** - *Web Clicker Game (JavaScript/Vue.js)*
+[**Play Here**](https://imposter.exposed) / [**Github**](https://github.com/realtradam/Amongus-Clicker)
+
+A clicker game made with Vue.js where I built a custom animation and particle system to give that really nice polished feel.
+
+
 ## ***Systems, Libraries, and Tools***
-
-### **Rodeo Kit** - *C Game Development Toolkit*
-[**Github**](https://github.com/realtradam/RodeoKit)
-
-Rodeo Kit is a game development toolkit that consists of multiple libraries I've made that come together to assist with the creation of games such as:
-- Cross-platform 2D batched rendering system
-- Abstracted input system allowing for easy implementation of many different input interfaces.
-- Multi-level logging system that allows a custom callback to redirect the output of logging.
 
 And more still being developed!
 
@@ -51,6 +63,14 @@ FelECS is an ECS framework for developing games in the Ruby language. FelECS has
 1. **Engine Agnostic:** FelECS has been designed to be rendering engine agnostic as long as the target rendering engine is written in Ruby. This means that this framework can be dropped into existing rendering engines such as [Ruby2D](http://www.ruby2d.com) or [DRGTK](https://dragonruby.org/toolkit/game).
 2. **Easily Extensible:** FelECS has been designed such that extensions to its capabilities can be easily added. Extensions such as rendering engine wrappers, premade systems, premade components, etcetera can be easily added on and distributed.
 3. **Principle of (My) Least Astonishment:** I want to develop games using a language and framework I love and makes sense to me, inspired by the [Philosophy of the creator of Ruby](https://en.wikipedia.org/wiki/Ruby_(programming_language)#Philosophy).
+
+### **Rodeo Kit** - *C Game Development Toolkit*
+[**Github**](https://github.com/realtradam/RodeoKit)
+
+Rodeo Kit is a game development toolkit that consists of multiple libraries I've made that come together to assist with the creation of games such as:
+- Cross-platform 2D batched rendering system
+- Abstracted input system allowing for easy implementation of many different input interfaces.
+- Multi-level logging system that allows a custom callback to redirect the output of logging.
 
 ### **FelBind** - *C to mruby Automatic Binding Generator*
 [**Github**](https://github.com/realtradam/FelBind)
@@ -73,11 +93,6 @@ Won the [Raylib 5K Gamejam](https://itch.io/jam/raylib-5k-gamejam/results/enjoym
 [**Play Here**](https://tradam.itch.io/magnet-run-3d) / [**Github**](https://github.com/realtradam/Magnet-Run-3D)
 
 Tech demo developed to exercise and practice the 3Cs of game design/development. In this demo you play as a ball that rolls around various objects that have complex gravity sources.
-
-### **Among Us Clicker** - *Web Clicker Game (JavaScript/Vue.js)*
-[**Play Here**](https://imposter.exposed) / [**Github**](https://github.com/realtradam/Amongus-Clicker)
-
-A clicker game made with Vue.js where I built a custom animation and particle system to give that really nice polished feel.
 
 ### **Raylib DrawTexturePro() Demo** - *Program For Teaching Newcomers Raylib ( C )*
 [**Play Here**](https://tradam.itch.io/raylib-drawtexturepro-interactive-demo) / [**Github**](https://github.com/realtradam/raylib-DrawTexturePro-interactive-demo)
